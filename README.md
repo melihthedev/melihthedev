@@ -21,4 +21,4 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melihthedev&show_icons=true&locale=en&layout=compact" alt="melihthedev" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=melihthedev&show_icons=true&locale=en" alt="melihthedev" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=melihthedev&show_icons=true&locale=en" alt="melihthedev" width="370px" height="170px"/></p>
